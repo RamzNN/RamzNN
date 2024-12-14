@@ -1,5 +1,14 @@
 # 💫 About Me:
-I'm a data scientist with over 3 years of experience specializing in machine learning, computer vision, and natural language processing. I enjoy working with both classical algorithms and deep learning techniques, particularly generative and discriminative models.<br><br>I hold a degree in **Computer Security**, allowing me to blend cybersecurity knowledge with data analysis and machine learning solutions. I've also completed military training, which has improved my teamwork and leadership skills.<br><br>#### ⚡ Technologies & Tools<br>- **Languages**: Python, [Other languages]<br>- **Frameworks**: [Libraries/Frameworks you use]<br>- **Tools**: Docker, Linux, [Other tools]<br><br>#### 🌱 I’m currently learning<br>- New trends in machine learning and data analysis<br><br>I believe in continuous learning and am always looking for new challenges that require creative problem-solving. Feel free to check out my projects and reach out for collaboration!
+I'm a data scientist with over 3 years of experience specializing in machine learning, computer vision, and natural language processing. I enjoy working with both classical algorithms and deep learning techniques, particularly generative and discriminative models.<br>
+
+<br>I hold a degree in **Computer Security**, allowing me to blend cybersecurity knowledge with data analysis and machine learning solutions.<br>
+
+<br>#### ⚡ Technologies & Tools<br>- **Languages**: Python, [Other languages]<br>
+- **Frameworks**: [Libraries/Frameworks you use]<br>
+- **Tools**: Docker, Linux, [Other tools]<br>
+<br>#### 🌱 I’m currently learning<br>
+- New trends in machine learning and data analysis<br>
+<br>I believe in continuous learning and am always looking for new challenges that require creative problem-solving.
 
 
 # 💻 Tech Stack:
