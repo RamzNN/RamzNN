@@ -3,7 +3,7 @@ I'm a data scientist with over 3 years of experience specializing in machine lea
 
 <br>I hold a degree in **Computer Security**, allowing me to blend cybersecurity knowledge with data analysis and machine learning solutions.<br>
 
-<br>#### ⚡ Technologies & Tools<br>- **Languages**: Python, [Other languages]<br>
+#### ⚡ Technologies & Tools<br>- **Languages**: Python, [Other languages]
 - **Frameworks**: [Libraries/Frameworks you use]<br>
 - **Tools**: Docker, Linux, [Other tools]<br>
 <br>#### 🌱 I’m currently learning<br>
