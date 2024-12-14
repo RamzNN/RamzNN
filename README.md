@@ -1,4 +1,17 @@
-# 💫 About Me:
+<div align="center">
+  <a href="ramazan5105a@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <a href="https://t.me/ramz_nn" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
+</div>
+
+<h1 align="center">Data Scientist | Machine Learning Engineer</h1>
+
+
+
+## 💫 About Me:
 
 I'm a data scientist with over 3 years of experience specializing in machine learning, computer vision, and natural language processing. I enjoy working with both classical algorithms and deep learning techniques, particularly generative and discriminative models.
 
