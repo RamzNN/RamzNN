@@ -9,7 +9,6 @@
   </a>
 </div>
 
-<h1 align="center">Data Scientist | Machine Learning Engineer</h1>
 
 
 
